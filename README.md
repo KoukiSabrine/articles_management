@@ -10,6 +10,6 @@ spring boot
 -controllers layer
 
 
-ORM: Hibernate
-manage dependencies: maven
+* ORM: Hibernate
+* manage dependencies: maven
 
